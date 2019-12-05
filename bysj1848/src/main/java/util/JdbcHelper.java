@@ -10,7 +10,7 @@ import java.sql.Statement;
  */
 public final class JdbcHelper {
 
-	private static String  url = "jdbc:mysql://localhost:3306/bysj1836" +
+	private static String  url = "jdbc:mysql://localhost:3306/bysj1848" +
 			"?useUnicode=true&characterEncoding=utf8" +
 			"&serverTimezone=Asia/Shanghai";
 	private static String user = "root";
